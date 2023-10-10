@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package S08v3_20;
+package S09_20;
 
 /**
  *
  * @author USUARIO
  */
-public class EstudianteV3_20 {
+public class EstudianteV2_20 {
     
 }
